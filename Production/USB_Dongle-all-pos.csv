@@ -1,4 +1,4 @@
-Ref,Val,Package,PosX,PosY,Rot,Side
+Comment,Val,Package,Mid X,Mid Y,Rotation,Layer
 "C22","0.1uF","C_0402_1005Metric",178.234000,-46.256000,90.000000,bottom
 "C25","10uF","C_0402_1005Metric",180.204000,-46.256000,90.000000,bottom
 "C26","1uF","C_0402_1005Metric",182.174000,-46.256000,90.000000,bottom
