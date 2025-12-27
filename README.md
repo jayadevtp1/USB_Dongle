@@ -1,5 +1,7 @@
 # USB_Dongle
-
+# PCB Design
+started with edgecuts.then place all the components .Then enter into the most time consuming part the pcb rooting.it take me much time.
+there occur so many drs connections. then recheck and completed the rooting .All the suffes finished.
 # Schematic for the USB_Dongle
 started with finding a best microcontroller for this project in online. After some research found out that esp32 is best. 
 Then started started cooking. At first findout the essential components and schematic layout of it. Then started cooking schematic diagram in kicad. 
